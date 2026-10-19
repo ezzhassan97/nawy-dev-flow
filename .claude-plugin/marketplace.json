@@ -1,0 +1,13 @@
+{
+  "name": "nawy-dev-flow",
+  "owner": { "name": "Ezz Hassan" },
+  "metadata": { "description": "Build features in your product's real code with Claude, as a product manager." },
+  "plugins": [
+    {
+      "name": "nawy-dev-flow",
+      "source": "./plugins/nawy-dev-flow",
+      "description": "Setup, start and end a piece of work (story, branch, own copy of the repos, PRs, reviewer), and UAT on staging.",
+      "version": "1.0.0"
+    }
+  ]
+}

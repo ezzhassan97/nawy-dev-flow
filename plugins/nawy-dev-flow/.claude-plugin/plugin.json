@@ -1,0 +1,7 @@
+{
+  "name": "nawy-dev-flow",
+  "version": "1.0.0",
+  "description": "Build features in your product's real code as a product manager: a guided setup of your repos, Jira, GitHub, tunnels and reviewer, then /dev-start gives each piece of work its story, branch and own running copy of the repos, /dev-end checks it, opens the PRs and tells your reviewer, and /uat-start and /uat-end test stories on staging and file the bugs.",
+  "author": { "name": "Ezz Hassan" },
+  "keywords": ["product manager", "worktree", "jira", "github", "pull request", "uat", "staging"]
+}
